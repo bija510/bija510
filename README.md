@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there! 👋 I'm Bijaya Chhetri
 
-<!--
-**bija510/bija510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 SDET | QA Automation Engineer
 
-Here are some ideas to get you started:
+I’m a passionate **Software Development Engineer in Test (SDET)** with expertise in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Test Automation**
+- **API Testing**
+- **Mobile & Desktop App Testing**
+- **Web UI Testing**
+- **Performanance Testing**
+- **CI/CD Integration**
+
+I have hands-on experience building robust test automation frameworks and ensuring software quality across various domains. I've had the opportunity to contribute to several impactful projects, including:
+
+- **Ontario Land and Grant**
+- **NY-UCC Business Service**
+- **Utah Business Service**
+- **Georgia Campance Finance**
+- **Aurora Campance Finance**
+- **Arizona State Project**
+- **Texas Demtech Inhouse Election**
+
+Feel free to reach out for collaboration or to explore my work!
+
+## 📫 How to Reach Me
+Feel free to get in touch with me via email:  
+📧 [cbijaya2080@gmail.com](mailto:cbijaya2080@gmail.com)
+
+Thanks for stopping by! Happy Testing 🚀
