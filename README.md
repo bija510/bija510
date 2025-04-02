@@ -2,24 +2,12 @@
 
 ## 🚀 SDET | QA Automation Engineer
 
-I’m a passionate **Software Development Engineer in Test (SDET)** with expertise in:
+```I’m a passionate Software Development Engineer in Test (SDET) with expertise in:```
+- 🧪 **Test Automation** - 🔌 **API Testing** - 📱💻 **Mobile & Desktop App Testing** - 🌐 **Web UI Testing** - 🚀 **Performance Testing** - 🔄 **CI/CD Integration**
 
-- **Test Automation**
-- **API Testing**
-- **Mobile & Desktop App Testing**
-- **Web UI Testing**
-- **Performanance Testing**
-- **CI/CD Integration**
-
-I have hands-on experience building robust test automation frameworks and ensuring software quality across various domains. I've had the opportunity to contribute to several impactful projects, including:
-
-- **Ontario Land and Grant**
-- **NY-UCC Business Service**
-- **Utah Business Service**
-- **Georgia Campance Finance**
-- **Aurora Campance Finance**
-- **Arizona State Project**
-- **Texas Demtech Inhouse Election**
+```I have hands-on experience building robust test automation frameworks and ensuring software quality across various domains. I've had the opportunity to contribute to several impactful projects, including:```
+- 🏞️ **Ontario Land and Grant**  - 💼 **NY-UCC Business Service**  - 🏢 **Utah Business Service** - 💰 **Georgia Campance Finance**  
+- 🌟 **Aurora Campance Finance** - 🏛️ **Arizona State Project**    - 🗳️ **Texas Demtech Inhouse Election**
 
 Feel free to reach out for collaboration or to explore my work!
 
