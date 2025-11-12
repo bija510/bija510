@@ -33,8 +33,8 @@ I also leverage **AI tools like GitHub Copilot** to accelerate development, redu
 - **Collaboration & Problem Solving:** Fast learner, thrives under pressure, and delivers robust, maintainable testing solutions.  
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bija510&layout=compact&theme=graywhite)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bija510&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bija510&layout=compact&theme=vue)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bija510&theme=light)
 ![Bijaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bija510&show_icons=true&theme=vue)
 
 
